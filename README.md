@@ -1,7 +1,7 @@
-# edgy_board number b123
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
+# edgy_board number b084
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). 
 
-Picture or 3D render goes here
+![](board/board.png)
 
 # getting started
 This repository uses submodules. After cloning use the command 
