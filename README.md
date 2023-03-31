@@ -11,5 +11,5 @@ This repository uses submodules. After cloning use the command
 to pull the submodules before opening the project with kicad. 
 
 # Tests
-Tests can be found in TESTS.md
+Tests can be found in [TESTS.md](TESTS.md)
 
