@@ -1,12 +1,5 @@
-# test 1
+# sine wave test
 ## setup
-Describe your test setup
+Connected to a b018 and a b014 SMA connector connected to a wave for generator.
 ## results
-Describe your results
-
-
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+Sine wave could be read and values were plausible.
